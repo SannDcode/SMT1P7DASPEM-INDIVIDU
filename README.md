@@ -19,4 +19,4 @@ Projek individu matkul Dasar Pemrograman 4 nov 2025, ga jago2 bet si, mungkin sy
 # **Lisence**
 
 ![License: MIT License](https://img.shields.io/badge/License-mit-blue.svg)
-_Copyright &copy;2025_
+<br><strong><div class='aplah'>_Copyright &copy;2025_</div></strong>
