@@ -6,7 +6,7 @@ Projek individu matkul Dasar Pemrograman 4 nov 2025, ga jago2 bet si, mungkin sy
 ## Authors
 
 - [@sanndcode](https://www.github.com/sanndcode)
-`Copyright &copy;2025
+`Copyright &copy;2025`
 
 
 ## Usage/Examples
